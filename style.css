@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-size: large;
+}
+
+.div {
+  color: rgb(106, 106, 106);
+}
+
+.color-blue {
+  color: blue;
+}
+
+#numeri {
+  display: inline;
+}
+.color-green {
+  color: rgb(96, 200, 221);
+}
+
+.color-red {
+  color: rgb(244, 54, 54);
+}
